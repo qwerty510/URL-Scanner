@@ -10,6 +10,7 @@ Only tested on MacOS, probably will work on Linux, and good luck Windows users.
 
 # Arguments
 python3 scrape.py [URL]
+
 [URL] -> Target URL to scrape (No quotation marks)
 
 # WARNING
